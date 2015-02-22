@@ -21,9 +21,6 @@ Via Opera Pia 11A, I- 16145, Genoa, Italy.
 activityrecognition@smartlab.ws  
 www.smartlab.ws  
 
-
-
-
 ### Variables
 
 There 68 variables altogether.  
@@ -38,7 +35,9 @@ For the 66 variables below,
 't' or 'f' = time or frequency domain  
 'Body' or 'Gravity' = Indicating body or gravity acceleration signal  
 'mean' = mean value  
-'std' = standard deviation  
+'std' = standard deviation   
+Units: standard gravity 'g'  
+The data for each of these 66 variables has been averaged for each activity and subject.  
 
 - tBodyAccmeanX 
 - tBodyAccmeanY 
