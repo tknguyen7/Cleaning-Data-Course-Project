@@ -10,7 +10,7 @@ This project was completed for the Coursera Class: Getting and Cleaning data.
 
 ###Introduction
 
-The original dataset represent data collected from the accelerometers from the Samsung Galaxy S smartphone[1].
+The original dataset represent data collected from the accelerometers from the Samsung Galaxy S smartphone.
 
 The data belongs to: 
 
